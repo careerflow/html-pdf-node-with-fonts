@@ -35,5 +35,6 @@
   "bugs": {
     "url": "https://github.com/mrafiqk/html-pdf-node/issues"
   },
-  "homepage": "https://github.com/mrafiqk/html-pdf-node#readme"
+  "homepage": "https://github.com/mrafiqk/html-pdf-node#readme",
+  "packageManager": "yarn@4.4.1"
 }
